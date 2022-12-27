@@ -15,16 +15,16 @@ glossary = {
 }
 
 print("variable:")
-print(f"""\t{glossary.get("variable")}""")
+print(f"""\t{glossary.get("variable")}\n""")
 
 print("string:")
-print(f"""\t{glossary.get("string")}""")
+print(f"""\t{glossary.get("string")}\n""")
 
 print("list:")
-print(f"""\t{glossary.get("list")}""")
+print(f"""\t{glossary.get("list")}\n""")
 
 print("tuple:")
-print(f"""\t{glossary.get("tuple")}""")
+print(f"""\t{glossary.get("tuple")}\n""")
 
 print("dictionary:")
-print(f"""\t{glossary.get("dictionary")}""")
+print(f"""\t{glossary.get("dictionary")}\n""")
